@@ -1,0 +1,11 @@
+.text-center {
+    padding-top: 20%;
+    text-align: center;
+    top: 50%;
+    font-size: 50px;
+}
+
+.button-center {
+    padding-left: 43%;
+    text-align: center;
+}
