@@ -1,0 +1,86 @@
+.search-header {
+    display: flex;
+}
+
+.search-text {
+    margin-right: 10px;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-form {
+    padding-left: 50px;
+    padding-top: 50px;
+    width: 400px;
+}
+
+.search-box {
+    height: 60px;
+}
+
+#search-box[placeholder] {
+    line-height: 25px;
+    font-size: 25px;
+}
+
+.search-song-button {
+    margin-top: 15px;
+}
+
+.search-artist-button {
+    margin-top: 15px;
+    margin-left: 10px;
+    color: white !important;
+    background-color: #3b3b3b !important;
+}
+
+
+.search-list {
+    width: 1000px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.search-list2 {
+    width: 600px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.search-list3 {
+    width: 1000px;
+    margin-top: 15px;
+    margin-bottom: 50px;
+}
+
+.number-horizontal-center {
+    padding-top: 20px;
+    padding-right: 10px;
+}
+
+.information-horizontal-center {
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.information-horizontal-center2 {
+    padding-top: 1px;
+    padding-left: 10px;
+}
+
+.listen-button {
+    margin-left: 18px;
+    margin-top: 10px;
+    color: #1DB954;
+}
+
+.audio {
+    padding-top: 8px;
+    padding-left: 10px;
+}
+
+.image {
+    padding-top: 6px;
+}

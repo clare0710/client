@@ -1,0 +1,11 @@
+.vertical-menu-icon {
+    padding-top: 10px;
+    /* padding-left: 5px; */
+    width: 40px;
+    height: 40px;
+}
+
+.vertical-menu-button {
+    background-color: white !important;
+    border: #fff !important;
+}

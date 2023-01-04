@@ -1,0 +1,21 @@
+.color-nav {
+    background-color: #1DB954;
+}
+
+.padding-sound {
+    padding-right: 20;
+}
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary:visited {
+    color: black !important;
+    background-color: #1DB954 !important;
+    border-color: #1DB954 !important;
+}
+
+.text-bold {
+    font-weight: bold;
+}
