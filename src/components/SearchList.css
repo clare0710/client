@@ -84,3 +84,40 @@
 .image {
     padding-top: 6px;
 }
+
+
+
+.toptracks-list {
+    width: 2000px;
+    margin-top: 15px;
+    margin-left: 80px;
+    padding: 10px 15px;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+}
+
+.username {
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 200px;
+}
+
+.profileImg {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.cover-circle {
+    border-radius: 55%;
+    padding-top: 6px;
+    margin-left: 30px;
+}
+
+.cover {
+    border-radius: 15px;
+    padding-top: 6px;
+    margin-left: 30px;
+}
